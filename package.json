@@ -1,0 +1,24 @@
+{
+    "name": "mean-stack-application",
+    "version": "1.0.0",
+    "description": "angular7, express, mongodb, nodejs application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pkimotho/meantutorial.git"
+    },
+    "author": "P. Kimotho",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pkimotho/meantutorial/issues"
+    },
+    "homepage": "https://github.com/pkimotho/meantutorial#readme",
+    "dependencies": {
+        "express": "^4.17.0",
+        "mongoose": "^5.5.10"
+    }
+}

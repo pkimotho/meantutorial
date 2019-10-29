@@ -19,6 +19,6 @@
     "homepage": "https://github.com/pkimotho/meantutorial#readme",
     "dependencies": {
         "express": "^4.17.0",
-        "mongoose": "^5.5.10"
+        "mongoose": "^5.7.5"
     }
 }
